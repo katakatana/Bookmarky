@@ -1,0 +1,9 @@
+[
+  {
+    "model": "bookmarkybookmarks.models.Profile",
+    "pk": 1,
+    "fields": {
+      "bio": "Anonymous Profile Bio"
+    }
+  }
+]
